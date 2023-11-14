@@ -1,0 +1,26 @@
+:root {
+    /* colors **/ 
+    --primary-300: #007BFF;
+    --primary-500: #1F47CD;
+    --primary-100: #009EFF;
+    --neutral-300: #00000080;
+    --neutral-500: #2F2F2F;
+    --neutral-100: #647387;
+    --sucess-50: #D6F6DD;
+    --sucess-300: #36CF58;
+    --pending-50: #CEE4FF;
+    --pending-300: #0A7BFD;
+    --error-50: #FEDCD9;
+    --error-300: #FB4F43;
+    --black: #000000;
+    --white: #ffffff;
+
+    /* typography **/ 
+    --body-12: 12px;
+    --body-14: 14px;
+    --body-16: 16px;
+    --body-18: 18px;
+    --h2: 32px;
+    --h1: 40px
+    
+}
